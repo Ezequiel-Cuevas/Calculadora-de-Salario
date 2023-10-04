@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\CalculadoraSalario\CalculadoraSalario\obj\Debug\CalculadoraSalario.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\CalculadoraSalario\CalculadoraSalario\obj\Debug\CalculadoraSalario.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\source\repos\CalculadoraSalario\CalculadoraSalario\obj\Debug\CalculadoraSalarioApp.Form1.resources
+C:\Users\Usuario\source\repos\CalculadoraSalario\CalculadoraSalario\obj\Debug\CalculadoraSalario.Properties.Resources.resources
+C:\Users\Usuario\source\repos\CalculadoraSalario\CalculadoraSalario\obj\Debug\CalculadoraSalario.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\CalculadoraSalario\CalculadoraSalario\obj\Debug\CalculadoraSalario.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\CalculadoraSalario\CalculadoraSalario\bin\Debug\CalculadoraSalario.exe.config
+C:\Users\Usuario\source\repos\CalculadoraSalario\CalculadoraSalario\bin\Debug\CalculadoraSalario.exe
+C:\Users\Usuario\source\repos\CalculadoraSalario\CalculadoraSalario\bin\Debug\CalculadoraSalario.pdb
+C:\Users\Usuario\source\repos\CalculadoraSalario\CalculadoraSalario\obj\Debug\CalculadoraSalario.exe
+C:\Users\Usuario\source\repos\CalculadoraSalario\CalculadoraSalario\obj\Debug\CalculadoraSalario.pdb
